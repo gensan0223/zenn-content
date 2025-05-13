@@ -102,8 +102,8 @@ GitHubでの履歴管理やコラボレーションもできるので、ポー�
 
 
 ## 📚 参考
-- Zenn公式ドキュメント
-- Zenn CLI GitHubリポジトリ
+- [Zenn公式-Zenn CLIをインストールする](https://zenn.dev/zenn/articles/install-zenn-cli)
+- [Zenn CLI GitHubリポジトリ](https://github.com/zenn-dev/zenn-editor)
 
 
 ---
